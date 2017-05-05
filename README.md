@@ -43,5 +43,6 @@ git branch <name> => create a branch
 git branch => list all the local branches
 git checkout <name> => working on the branch
 -----
+git push -u origin <name of branch> => push branch to remote
 
 
