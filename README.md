@@ -60,14 +60,23 @@ git push origin --delete (branch)  => delete remote branch
 work flow
 
 git branch (branch name)
+
 git checkout (branch name)
+
 git status
+
 git add -A
+
 git commit -m "comment"
+
 git push -u origin (branch name)
+
 git checkout master
+
 git pull origin master
+
 git merge (branch name)
+
 git push origin master
 
 
