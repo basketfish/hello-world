@@ -44,5 +44,29 @@ git branch => list all the local branches
 git checkout <name> => working on the branch
 -----
 git push -u origin <name of branch> => push branch to remote
+git branch -a
+-----------
+git check out master
+git branch --merged
+git merge <name of branch>
+git push origin master
+-------------
+git branch -d <branch name>
+git branch -a => check branch
+git push origin --delete <branch> => delete remote branch
+
+-----------
+work flow
+
+git branch <branch name>
+git checkout <branch name>
+git status
+git add -A
+git commit -m "comment"
+git push -u origin <branch name>
+git checkout master
+git pull origin master
+git merge <branch name>
+git push origin master
 
 
