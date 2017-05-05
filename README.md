@@ -1,9 +1,11 @@
 # hello-world
 
 Download : https://git-scm.com/download/win
+
 Github tutorial video: https://www.youtube.com/watch?v=HVsySz-h9r4
 
 ls -la
+
 git --version
 touch .gitignore   =>    can add a ignore fill
 
