@@ -38,4 +38,10 @@ git diff => show me the changes
 ----------------------
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
+---------------
+git branch <name> => create a branch
+git branch => list all the local branches
+git checkout <name> => working on the branch
+-----
+
 
