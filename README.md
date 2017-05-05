@@ -53,7 +53,7 @@ git push origin master
 -------------
 git branch -d <branch name>
 git branch -a => check branch
-git push origin --delete <branch> => delete remote branch
+git push origin --delete <branch>  => delete remote branch
 
 -----------
 work flow
